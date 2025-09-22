@@ -1,7 +1,7 @@
 # Gemini CLI Extension - Cloud SQL for SQL Server Observability
 
 > [!NOTE]
-> This extension is currently in beta, and may see breaking changes until the first stable release (v1.0).
+> This extension is currently in beta (pre-v1.0), and may see breaking changes until the first stable release (v1.0).
 
 This Gemini CLI extension provides a set of tools to interact with [Cloud SQL for SQL Server](https://cloud.google.com/sql/docs/sqlserver)  monitoring metrics. It allows you to fetch a wide range of database metrics, enabling comprehensive monitoring of database performance and health directly from the [Gemini CLI](https://google-gemini.github.io/gemini-cli/), using natural language prompts.
 
@@ -31,7 +31,7 @@ gemini extensions install github.com/gemini-cli-extensions/cloud-sql-sqlserver-o
 
 ## Configuration
 
-Ensure [Application Default Credentials](https://cloud.google.com/docs/authentication/gcloud) are available in your environment. 
+Ensure [Application Default Credentials](https://cloud.google.com/docs/authentication/gcloud) are available in your environment.
 
 ## Usage Examples
 
