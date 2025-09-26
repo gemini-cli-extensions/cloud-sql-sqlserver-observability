@@ -1,6 +1,6 @@
 {
   "name": "cloud-sql-sqlserver-observability",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Manage and monitor database performance and health for Cloud SQL for SQL Server.",
   "mcpServers": {
     "Cloud SQL for SQL Server Observability": {
