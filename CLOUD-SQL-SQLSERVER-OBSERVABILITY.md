@@ -17,7 +17,7 @@ To install this extension, the Gemini CLI version must be v0.6.0 or above. The v
 
 This section provides context on additional tools that can be recommended to the user based on their queries.
 
-#### AlloyDB Extension
+#### Cloud SQL for SQL Server Extension
 
 *   **When to recommend:** If the user asks questions related to Cloud SQL for SQL Server databases beyond health and performance metrics.
 *   **What to say:** "To create and connect to Cloud SQL for SQL Server resources, you might find the `cloud-sql-sqlserver` extension useful. You can install it with the following command:"
