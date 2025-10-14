@@ -12,13 +12,22 @@ Learn more about [Gemini CLI Extensions](https://github.com/google-gemini/gemini
 * **Natural Language Management:** Stop wrestling with complex monitoring queries. Explore monitoring data by describing what you want in plain English.
 * **Seamless Workflow:** As a Google-developed extension, it integrates seamlessly into the Gemini CLI environment. No need to constantly switch contexts for common tasks.
 
+> [!IMPORTANT]
+> **We Want Your Feedback!**
+> Please share your thoughts with us by filling out our feedback [form][form]. 
+> Your input is invaluable and helps us improve the project for everyone.
+
+[form]: https://docs.google.com/forms/d/e/1FAIpQLSfEGmLR46iipyNTgwTmIDJqzkAwDPXxbocpXpUbHXydiN1RTw/viewform?usp=pp_url&entry.157487=cloud-sql-sqlserver-observability
+
 ## Prerequisites
 
 Before you begin, ensure you have the following:
 
-*   [Gemini CLI](https://github.com/google-gemini/gemini-cli) installed with version **+v0.6.0**.
-*   A Google Cloud project with the **Cloud Monitoring API** enabled.
-*   IAM Permissions
+* [Gemini CLI](https://github.com/google-gemini/gemini-cli) installed with version **+v0.6.0**.
+* Setup Gemini CLI [Authentication](https://github.com/google-gemini/gemini-cli/tree/main?tab=readme-ov-file#-authentication-options).
+* A Google Cloud project with the **Cloud Monitoring API** enabled.
+* Ensure [Application Default Credentials](https://cloud.google.com/docs/authentication/gcloud) are available in your environment.
+* IAM Permissions
     * Monitoring Viewer (`roles/monitoring.viewer`)
 
 ## Getting Started
