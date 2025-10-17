@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/compare/0.1.1...0.1.2) (2025-10-17)
+
+
+### Bug Fixes
+
+* update context for install instructions ([#36](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/issues/36)) ([1d408e2](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/commit/1d408e289c21d8e7825b54dfb25104ecb37434e9))
+
 ## [0.1.1](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/compare/0.1.0...0.1.1) (2025-09-30)
 
 
