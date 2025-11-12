@@ -64,7 +64,6 @@ Interact with Cloud Monitoring metrics using natural language right from your ID
 ## Supported Tools
 
 * `get_system_metrics`: Fetches system level cloud monitoring data (timeseries metrics) for a SQL Server instance using a PromQL query.
-* `get_query_metrics`: Fetches query level cloud monitoring data (timeseries metrics) for queries running in SQL Server instance using a PromQL query.
 
 ## Additional Extensions
 
