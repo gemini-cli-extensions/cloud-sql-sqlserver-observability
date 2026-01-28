@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/compare/0.1.2...0.1.3) (2026-01-28)
+
+
+### Features
+
+* **deps:** update dependency googleapis/genai-toolbox to v0.26.0 ([#61](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/issues/61)) ([2061281](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/commit/206128189fc48e7bc939bb1188a7b786389caf76))
+
 ## [0.1.2](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/compare/0.1.1...0.1.2) (2025-10-17)
 
 
