@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/compare/0.1.3...0.1.4) (2026-07-06)
+
+
+### Features
+
+* **deps:** update dependency googleapis/mcp-toolbox to v1 ([#82](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/issues/82)) ([1167ce3](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/commit/1167ce3e998e17793899a7cee02fa0801793aa09))
+
 ## [0.1.3](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability/compare/0.1.2...0.1.3) (2026-01-28)
 
 
